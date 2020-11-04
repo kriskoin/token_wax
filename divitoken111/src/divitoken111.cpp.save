@@ -1,0 +1,5 @@
+#include <divitoken111.hpp>
+ACTION divitoken111::test( ) {
+   /* fill in action body */
+   print_f("This is a test running on wax\n");
+}
